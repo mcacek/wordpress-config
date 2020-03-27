@@ -2,8 +2,8 @@
 
 ## Setup
 
-Download a copy of Wordpress and deploy it to a web server of your choice. Git clone this repo into the root of the
-Wordpress installation and follow the steps below.
+Download a copy of Wordpress and deploy it to a web server of your choice. Download a copy of this repo and extract the
+contents into the root of the Wordpress installation and follow the steps below.
 
 `bash composer install`
 
