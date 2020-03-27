@@ -1,0 +1,5 @@
+*
+!.env.sample
+!composer.json
+!composer.lock
+!docker-compose.yml
